@@ -38,7 +38,7 @@
 
 Name:		mod24u_fcgid
 Version:	2.3.9
-Release:	1.kng%{?dist}
+Release:	1.kkr%{?dist}
 Summary:	FastCGI interface module for Apache 2
 Group:		System Environment/Daemons
 License:	ASL 2.0
